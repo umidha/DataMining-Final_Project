@@ -1,0 +1,53 @@
+Enterprise	Or
+Grants Pass	Or
+Portland	Or
+Lincoln City	Or
+Eugene	Or
+St Helens	Or
+Salem	Or
+Hermiston	Or
+Medford	Or
+Gresham	Or
+Beaverton	Or
+Hood River	Or
+Hillsboro	Or
+Portland	Or
+Hillsboro	Or
+Clackamas	Or
+Portland	Or
+The Dalles	Or
+Bend	Or
+Keizer	Or
+Portland	Or
+Portland	Or
+Troutdale	Or
+Coos Bay	Or
+North Bend	Or
+McMinnville	Or
+Portland	Or
+Salem	Or
+Redmond	Or
+Sweet Home	Or
+West Linn	Or
+Molalla	Or
+La Grande	Or
+Bend	Or
+Portland	Or
+Woodburn	Or
+Newberg	Or
+Astoria	Or
+Beaverton	Or
+Milwaukie	Or
+Milwaukie	Or
+Tillamook	Or
+Coquille	Or
+Clatskanie	Or
+Baker City	Or
+Gladstone	Or
+Vancouver	Wa
+Vancouver	Wa
+Vancouver	Wa
+Vancouver	Wa
+Vancouver	Wa
+Kelso	Wa
+Hazel Dell	Wa

@@ -1,0 +1,619 @@
+1939	Chester
+4218	Leesburg
+1177	Washington
+1365	Fairfax
+1759	Sterling
+1606	Burke
+2616	Fairfax
+1920	McLean
+1443	Clinton
+1276	Washington
+1716	Bethesda
+2912	Washington
+2979	Towson
+945	Potomac
+2713	Bowie
+1177	Washington
+1920	McLean
+1920	McLean
+1579	Germantown
+1304	Falls Church
+693	Washington
+1460	Annapolis
+1177	Washington
+693	Washington
+4218	Leesburg
+870	Silver Spring
+1462	Falls Church
+1445	Washington
+2661	Waldorf
+1731	Prince Frederick
+870	Silver Spring
+4205	Washington
+1588	Annandale
+1460	Annapolis
+2892	Washington
+1417	Great Falls
+2737	Washington
+1539	Pasadena
+1417	Great Falls
+128	Walkersville
+1177	Washington
+693	Washington
+1553	Columbia
+1177	Washington
+4270	Washington
+1369	Silver Spring
+1445	Washington
+1462	Falls Church
+1084	Sterling
+1763	Dover
+1285	Alexandria
+853	Bethesda
+4202	Washington
+1177	Washington
+4402	Largo
+3304	Altamonte Springs
+4402	Largo
+764	Arlington
+1276	Washington
+2816	Colorado Springs
+4319	Oakland Park
+1276	Washington
+683	Farmington
+2612	Aurora
+2781	Wheaton
+1533	Grand Junction
+1177	Washington
+1084	Sterling
+3304	Altamonte Springs
+1499	Colorado Springs
+2810	Monte Vista
+1716	Bethesda
+2667	Cheyenne
+4218	Leesburg
+4319	Oakland Park
+2761	Lander
+4933	McLean
+1132	Glenwood Springs
+3728	Canon City
+1428	Alexandria
+1300	McLean
+1548	Lone Tree
+244	Denver
+2913	Fort Collins
+3304	Altamonte Springs
+1038	Denver
+549	Alliance
+1933	Centennial
+1667	Erie
+835	Colorado Springs
+2462	Wheatland
+1283	Alexandria
+914	Loveland
+2824	Leadville
+461	Riverton
+617	Gunnison
+2004	Farmington
+2781	Wheaton
+244	Denver
+2004	Farmington
+853	Bethesda
+1462	Falls Church
+1481	Baltimore
+27	Littleton
+1873	Thornton
+1652	Bel Air
+2810	Monte Vista
+1792	Colorado Springs
+1286	Colorado Springs
+41	Lakewood
+1873	Thornton
+1276	Washington
+244	Denver
+4030	Newark
+17	Englewood
+557	Ogallala
+2004	Farmington
+4402	Largo
+1479	Wheat Ridge
+4319	Oakland Park
+563	Sunnyside
+1235	Yakima
+1499	Colorado Springs
+1833	Valdez
+1524	Bremerton
+584	Toppenish
+1546	Aberdeen
+244	Denver
+3521	East Wenatchee
+1038	Denver
+1965	Seattle
+2625	Grand Junction
+41	Lakewood
+683	Farmington
+1252	Bainbridge Island
+537	Monroe
+2754	Fairbanks
+1437	Tacoma
+1635	Federal Heights
+1479	Wheat Ridge
+1472	Mt Vernon
+2004	Farmington
+1546	Aberdeen
+531	Auburn
+107	Greenbelt
+219	Seattle
+1494	Spokane
+1090	Kodiak
+3728	Canon City
+1563	Renton
+1799	Spokane
+1550	Seattle
+1550	Seattle
+1550	Seattle
+1242	Spokane
+1084	Sterling
+4933	McLean
+1436	Tacoma
+3255	Spokane
+1645	Lakewood
+1799	Spokane
+461	Riverton
+1551	Seattle
+3540	Des Moines
+2466	Laramie
+1524	Bremerton
+1513	Baltimore
+1513	Baltimore
+1242	Spokane
+3255	Spokane
+137	Aurora
+344	Lakewood
+1681	Alamosa
+1715	Rockville
+3255	Spokane
+853	Bethesda
+2817	Salida
+1832	Homer
+3472	Bellevue
+1863	Delta
+219	Seattle
+219	Seattle
+556	Scottsbluff
+1481	Baltimore
+3269	Hamilton
+812	Colorado Springs
+2918	Greeley
+4402	Largo
+1803	Lake Stevens
+617	Gunnison
+1300	McLean
+1833	Valdez
+1799	Spokane
+1593	Grandview
+1494	Spokane
+1479	Wheat Ridge
+1285	Alexandria
+1464	Olympia
+1481	Baltimore
+1445	Washington
+1644	Falcon
+897	Grand Junction
+496	Redmond
+1464	Olympia
+3540	Des Moines
+531	Auburn
+1599	Littleton
+1038	Denver
+1803	Lake Stevens
+1826	Redding
+1576	Santa Rosa
+1990	Santa Clara
+1877	Castle Rock
+4402	Largo
+1159	Newport
+1507	San Francisco
+1533	Grand Junction
+8	Englewood
+962	Alamo
+2707	Stockton
+2918	Greeley
+983	Lakeport
+1494	Spokane
+790	San Leandro
+982	San Ramon
+4933	McLean
+1645	Lakewood
+2754	Fairbanks
+2624	Broomfield
+954	Crescent City
+2892	Washington
+1494	Spokane
+1832	Homer
+1615	Boulder
+1177	Washington
+989	Vallejo
+1953	Dublin
+1437	Tacoma
+1826	Redding
+4178	Burney
+1929	Soquel
+1501	Kailua Kona
+1490	San Francisco
+693	Washington
+1803	Lake Stevens
+995	San Francisco
+683	Farmington
+477	Federal Way
+1560	Carmichael
+41	Lakewood
+459	Kent
+1492	Port Angeles
+1792	Colorado Springs
+2684	Sacramento
+2683	El Dorado Hills
+1832	Homer
+1624	Issaquah
+4402	Largo
+557	Ogallala
+918	Rohnert Park
+4001	Fairfax
+1492	Port Angeles
+1267	Denver
+683	Farmington
+1530	Sacramento
+965	Willits
+1493	Seattle
+1209	Kapaa
+1928	Aurora
+797	Hayward
+1832	Homer
+1758	Nottingham
+2341	Fort Morgan
+3279	Butte
+1803	Lake Stevens
+256	Chico
+3228	Puyallup
+2004	Farmington
+10	Evergreen
+2295	Corning
+2697	Sacramento
+1710	Sweet Home
+3540	Des Moines
+1480	Highlands Ranch
+3540	Des Moines
+945	Potomac
+1556	Coos Bay
+1601	McMinnville
+1489	The Dalles
+3540	Des Moines
+2707	Stockton
+1526	Santa Clara
+1516	Keizer
+4381	Baker City
+382	Portland
+968	Vallejo
+444	Hermiston
+1799	Spokane
+424	St Helens
+985	San Francisco
+2690	Milwaukie
+1930	Lynden
+444	Hermiston
+1125	Chico
+747	Redwood City
+273	Anderson
+525	Medford
+2631	Beaverton
+1954	Redding
+1611	Vancouver
+799	Santa Cruz
+3279	Butte
+1525	Portland
+968	Vallejo
+976	Rodeo
+1975	Fountain
+2754	Fairbanks
+424	St Helens
+424	St Helens
+2840	Watsonville
+1704	Vancouver
+739	San Francisco
+1833	Valdez
+2791	Littleton
+4387	Gladstone
+4319	Oakland Park
+693	Washington
+2747	Honolulu
+2696	Milwaukie
+2754	Fairbanks
+1103	Vancouver
+525	Medford
+2840	Watsonville
+4405	Hazel Dell
+4402	Largo
+964	San Francisco
+3304	Altamonte Springs
+1933	Centennial
+308	Half Moon Bay
+785	San Francisco
+3304	Altamonte Springs
+2600	Tracy
+1231	Clackamas
+557	Ogallala
+1890	Roseville
+1206	San Francisco
+1629	Salem
+2842	Grass Valley
+525	Medford
+1761	Lincoln
+1215	Bay Point
+2625	Grand Junction
+1769	Stockton
+3255	Spokane
+4318	Clatskanie
+897	Grand Junction
+1516	Keizer
+4381	Baker City
+420	Eugene
+964	San Francisco
+219	Seattle
+2637	Kelso
+3304	Altamonte Springs
+2646	San Francisco
+955	Concord
+1976	Woodburn
+1888	Bend
+984	Clearlake
+964	San Francisco
+978	Ft Bragg
+1629	Salem
+1073	Beaverton
+1504	Bend
+1713	West Linn
+1215	Bay Point
+429	Salem
+2690	Milwaukie
+2817	Salida
+4402	Largo
+1504	Bend
+1665	Redmond
+777	South San Francisco
+1472	Mt Vernon
+812	Colorado Springs
+1521	Oro Valley
+2315	San Leandro
+1818	Ketchikan
+1487	Tempe
+1229	Nogales
+2042	Phoenix
+1951	Portland
+2651	Phoenix
+1542	Troutdale
+1627	Portland
+2083	Sierra Vista
+1704	Vancouver
+897	Grand Junction
+1997	Surprise
+1743	Gallup
+2911	Boulder
+1983	Tucson
+1863	Delta
+2054	Sun City West
+1073	Beaverton
+2269	West Sacramento
+870	Silver Spring
+2835	Florence
+1275	Benson
+2600	Tracy
+2911	Boulder
+1536	Payson
+1611	Vancouver
+257	Phoenix
+2799	Peoria
+236	Sun City
+1798	Puyallup
+1536	Payson
+1207	Sedona
+415	Lincoln City
+2707	Stockton
+2718	Mill Valley
+1230	Hillsboro
+1557	North Bend
+2631	Beaverton
+1447	Portland
+1833	Valdez
+1604	Chandler
+1827	La Grande
+1988	Tucson
+4402	Largo
+1684	Tucson
+1662	Peoria
+4318	Clatskanie
+1549	Scottsdale
+1519	Vancouver
+1841	Peoria
+1542	Troutdale
+1799	Spokane
+2835	Florence
+4387	Gladstone
+1515	Phoenix
+4319	Oakland Park
+1201	Phoenix
+429	Salem
+1954	Redding
+1275	Benson
+1706	Casa Grande
+273	Anderson
+236	Sun City
+2637	Kelso
+1591	Phoenix
+1110	Salinas
+2042	Phoenix
+2032	Scottsdale
+2054	Sun City West
+4402	Largo
+2637	Kelso
+2699	Surprise
+216	Lake Havasu
+257	Phoenix
+1103	Vancouver
+4405	Hazel Dell
+1434	Windsor
+964	San Francisco
+964	San Francisco
+2940	El Cerrito
+1654	Phoenix
+1521	Oro Valley
+2696	Milwaukie
+1883	American Canyon
+1706	Casa Grande
+3031	Daly City
+2075	Parker
+1751	Molalla
+248	Bullhead City
+979	Novato
+1291	Fountain Hills
+255	Tucson
+1474	Fort Mohave
+429	Salem
+936	Walnut Creek
+1491	Scottsdale
+2754	Fairbanks
+216	Lake Havasu
+1611	Vancouver
+1483	San Jose
+2623	Newberg
+1520	Surprise
+1300	McLean
+1300	McLean
+257	Phoenix
+939	Martinez
+1665	Redmond
+2707	Stockton
+219	Seattle
+2917	Brighton
+371	Enterprise
+1103	Vancouver
+3151	Goodyear
+1230	Hillsboro
+1489	The Dalles
+1449	Wenatchee
+1989	Tucson
+1490	San Francisco
+1984	Tucson
+1487	Tempe
+785	San Francisco
+984	Clearlake
+1291	Fountain Hills
+2017	Kingman
+1525	Portland
+2054	Sun City West
+2676	Mesa
+424	St Helens
+1474	Fort Mohave
+1997	Surprise
+1223	Portland
+1055	Prescott Valley
+1636	Glendale
+1283	Alexandria
+1222	Lahaina
+1808	Kenai
+797	Hayward
+1229	Nogales
+1487	Tempe
+1590	Milton Freewater
+444	Hermiston
+1207	Sedona
+2637	Kelso
+1931	Fremont
+1203	Hillsboro
+2690	Milwaukie
+2754	Fairbanks
+897	Grand Junction
+1976	Woodburn
+267	Tucson
+1207	Sedona
+1487	Tempe
+964	San Francisco
+2709	Phoenix
+1826	Redding
+1706	Casa Grande
+4319	Oakland Park
+1229	Nogales
+1255	Tucson
+2791	Littleton
+1984	Tucson
+444	Hermiston
+1536	Payson
+4402	Largo
+429	Salem
+1474	Fort Mohave
+342	Spokane
+1591	Phoenix
+216	Lake Havasu
+1826	Redding
+984	Clearlake
+2699	Surprise
+774	Benicia
+1954	Redding
+1832	Homer
+1275	Benson
+1983	Tucson
+581	Rapid City
+1291	Fountain Hills
+1804	Bowie
+1523	Portland
+1874	Tucson
+253	Apache Junction
+2940	El Cerrito
+1201	Phoenix
+1511	Goodyear
+3255	Spokane
+1209	Kapaa
+274	Prescott
+2723	Tillamook
+1717	Mesa
+444	Hermiston
+1998	Arvada
+2821	Phoenix
+1123	Hood River
+968	Vallejo
+1123	Hood River
+2075	Parker
+1591	Phoenix
+253	Apache Junction
+1601	McMinnville
+1434	Windsor
+897	Grand Junction
+2269	West Sacramento
+2699	Surprise
+1055	Prescott Valley
+984	Clearlake
+1636	Glendale
+4381	Baker City
+1472	Mt Vernon
+2754	Fairbanks
+379	Grants Pass
+1489	The Dalles
+1653	Vancouver
+1070	Gresham
+1654	Phoenix
+1771	Sahuarita
+2627	Astoria
+4262	Coquille
+1877	Castle Rock
+1824	South Lake Tahoe
+1874	Tucson
+2651	Phoenix
+413	Phoenix
+1763	Dover
+1663	Scottsdale
+1976	Woodburn
+1489	The Dalles
+1653	Vancouver
+1103	Vancouver
+4402	Largo
+1980	Phoenix
+1123	Hood River
